@@ -5,7 +5,6 @@
 }
 body {
   font-family: "Lato", sans-serif;
-  font-family: "Open Sans", sans-serif;
 }
 .banner {
   display: flex;
@@ -116,4 +115,22 @@ body {
   text-align: center;
   font-weight: bold;
   text-decoration: underline;
+}
+/* 3rd section */
+.support-section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 100px 170px 100px 170px;
+  background: rgba(39, 39, 39, 0.05);
+  padding: 80px 100px 80px 100px;
+}
+.support-box {
+  text-align: center;
+}
+.support-box p {
+  margin-top: 15px;
+  color: rgba(39, 39, 39, 0.8);
+  font-style: normal;
+  font-weight: 600;
 }

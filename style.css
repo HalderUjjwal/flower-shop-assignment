@@ -141,11 +141,11 @@ body {
   align-items: center;
   border-radius: 8px;
   background: rgba(229, 84, 115, 0.05);
-  padding: 100px 150px ;
+  padding: 100px 150px;
   margin-bottom: 100px;
 }
-.hot-deal-text{
-    text-align: center;
+.hot-deal-text {
+  text-align: center;
 }
 .hot-deal-text h3 {
   color: #272727;
@@ -157,4 +157,19 @@ body {
 }
 .hot-deal-text p {
   margin: 30px 0 20px 0;
+  color: rgba(39, 39, 39, 0.6);
+}
+/* 4th section */
+.insta {
+  text-align: center;
+  margin-bottom: 100px;
+}
+.insta-text h3 {
+  color: #272727;
+  font-size: 30px;
+  font-weight: 800;
+}
+.insta-text p {
+  color: rgba(39, 39, 39, 0.6);
+  margin: 24px 0;
 }
